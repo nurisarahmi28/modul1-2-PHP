@@ -1,6 +1,5 @@
-# modul1-2-PHP
-php bukan pemberi harapan palsu tapi PHP (Preprocesor Hypertext)
-# pengertian PHP (Preprocesor Hypertext)
+# modul1-PHP (Preprocesor Hypertext)
+# pengertian PHP
 merupakan bahasa scriprt yang menyatu dengan HTML tapi dijalankan oleh server,hasilnya ditampilkan di browser yang berupa HTML.
 
 # pembeda antara HTML dan PHP </b>
