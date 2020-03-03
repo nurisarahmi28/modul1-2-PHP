@@ -1,6 +1,6 @@
 # MODUL 1
-merupakan bahasa scriprt yang menyatu dengan HTML tapi dijalankan oleh server,hasilnya ditampilkan di browser yang berupa HTML.
-# pembeda antara HTML dan PHP </b>
+PHP (Preprocesor HyperText) merupakan bahasa scriprt yang menyatu dengan HTML tapi dijalankan oleh server,hasilnya ditampilkan di browser yang berupa HTML.
+# pembeda antara HTML dan PHP 
 sintaks php:
 ![Alt Text](https://github.com/nurisarahmi28/modul1-2-PHP/blob/master/sintaks.JPG)
 # Run dari Latihan1.php
@@ -33,5 +33,15 @@ di codingan variabel_hasil.php tidak dapat keluar hasilnya karena itu adalah kel
   di latihan 5 memakai logika AND,sedangkan di latihan 6 memakai logika OR tetapi output yang dihasilkan tetap sama.
   
   #ARRAY
+   berguna untuk menyimpan sejumlah data yang bertipe sama. Masing-masing elemen array dapat diakses melalui index array yang dapat berupa integer atau string.
+ # Run dari Latihan7.php
+ ![Alt Text](https://github.com/nurisarahmi28/modul1-2-PHP/blob/master/lat7.JPG)
+ Array dibaca mulai dari indeks awal [0],dst.
+ # Run dari Latihan8.php
+ ![Alt Text](https://github.com/nurisarahmi28/modul1-2-PHP/blob/master/lat8.JPG)
+ # Run dari Latihan9.php
+ ![Alt Text](https://github.com/nurisarahmi28/modul1-2-PHP/blob/master/lat9.JPG)
+ # Run dari Latihan10.php
+ ![Alt Text](https://github.com/nurisarahmi28/modul1-2-PHP/blob/master/lat10.JPG)dicodingannya sudah dijelaskan!
   
   
