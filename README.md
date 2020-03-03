@@ -4,7 +4,7 @@ php bukan pemberi harapan palsu tapi PHP (Preprocesor Hypertext)
 merupakan bahasa scriprt yang menyatu dengan HTML tapi dijalankan oleh server,hasilnya ditampilkan di browser yang berupa HTML.
 
 # pembeda antara HTML dan PHP </b>
-sintaks php:
+sintaks php:![Alt Text](https://github.com/nurisarahmi28/modul1-2-PHP/blob/master/sintaks.JPG)
 # Run dari Latihan1.php
 ![Alt Text](https://github.com/nurisarahmi28/modul1-2-PHP/blob/master/mod1.Lat1.JPG)
 # Run dari Latihan2.php
